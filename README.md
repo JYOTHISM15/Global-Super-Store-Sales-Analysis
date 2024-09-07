@@ -41,7 +41,11 @@ An interactive sales report was created using Power BI
 
 ## Video Explanation
 A video explaining the visualizations and insights from the analysis is available at:
-https://www.linkedin.com/posts/jyothis-m-960564327_activity-7238183112738750464-B7G9?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/jyothis-m-960564327_activity-7238183112738750464-B7G9?utm_source=share&utm_medium=member_desktop 
+
+
+## Data Set
+ https://docs.google.com/spreadsheets/d/1Ez8RhO1rE2QikfdddOZ19eEZhN4r6eW7WHb9qB05T7E/edit?usp=sharing
 
 ## Repository Structure
 - `data/`: Contains the raw and cleaned datasets.
